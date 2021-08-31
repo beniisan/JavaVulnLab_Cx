@@ -34,7 +34,7 @@ jobs:
     # Provide Checkmarx URL
           checkmarx_url: https://cxprivatecloud.checkmarx.net/
     # Select a Checkmarx Team
-          team: CxServer/SP/EMEA/checkmarx.ch - 972
+          team: CxServer/SP/EMEA/checkmarx.com - 972
     # Provide Checkmarx Username
           checkmarx_username: peter.adamko@idomsoft.hu
     # Provide Checkmarx Password
@@ -65,7 +65,7 @@ jobs:
     # GitHub API Token
           github_token: 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
     # Vulnerability Scanners (sast, sca, ast, cxgo)
-          scanners: sca
+          scanners: sast, sca
     # Provide SCA API URL
           sca_api_url: https://eu.api-sca.checkmarx.net 
     # Provide SCA APP URL
