@@ -63,7 +63,7 @@ jobs:
                   --sca.includeSources=true
                   --sca.enabledZipScan=true
     # GitHub API Token
-          github_token: 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
+          github_token: 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
     # Vulnerability Scanners (sast, sca, ast, cxgo)
           scanners: sca
     # Provide SCA API URL
