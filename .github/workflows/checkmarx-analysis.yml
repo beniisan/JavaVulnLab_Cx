@@ -36,7 +36,7 @@ jobs:
     # Select a Checkmarx Team
           team: CxServer/SP/EMEA/checkmarx.ch - 972
     # Provide Checkmarx Username
-          checkmarx_username: peter.adamko
+          checkmarx_username: peter.adamko@idomsoft.hu
     # Provide Checkmarx Password
           checkmarx_password: Cx1234567!
     # Provide Checkmarx Client Secret
