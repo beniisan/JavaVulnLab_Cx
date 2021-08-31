@@ -65,7 +65,7 @@ jobs:
     # GitHub API Token
           github_token: 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
     # Vulnerability Scanners (sast, sca, ast, cxgo)
-          scanners: sast,sca
+          scanners: sca
     # Provide SCA API URL
           sca_api_url: https://eu.api-sca.checkmarx.net 
     # Provide SCA APP URL
